@@ -12,6 +12,4 @@ Elegantly designed, this system empowers users to evaluate the responses of vari
 - **Scoring Scale**: Scores are presented on a detailed scale ranging from `0` to `100`, offering a granular understanding of model performance.
 
 ## 📜 Usage
-Utilize this system for a variety of purposes, be it personal, educational, or research-related. Please be aware:
-> ❗ **Commercial use is strictly prohibited**.
-
+Utilize this system for a variety of purposes, be it personal, educational, or research-related.
